@@ -1,1 +1,1 @@
-# CodeName V1.0
+# Codenames game

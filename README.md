@@ -1,3 +1,3 @@
 # Codenames Game
 
-#### Hellow world 
+Developed a codenames game using C#. 
